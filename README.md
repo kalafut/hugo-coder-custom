@@ -1,3 +1,7 @@
+Customization fork of https://github.com/luizdepra/hugo-coder.
+
+---
+
 <p align="center">
   <p align="center">
     <a href="https://themes.gohugo.io/hugo-coder/">
