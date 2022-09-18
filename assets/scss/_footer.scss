@@ -6,6 +6,12 @@
   margin-bottom: 1rem;
 
   a {
-    color: $link-color;
-  }
+      color: $fg-color;
+  
+      &:hover,
+      &:focus {
+        color: $link-color;
+        text-decoration: none;
+      }
+    }
 }
